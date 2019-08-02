@@ -5,3 +5,5 @@ Python wrapper and unit tests for NASA Jet Propulsion Laboratory (JPL) orbit pro
 The software is currently hosted at the University of Washington 
 
 contact: eggl(at)uw.edu
+
+Data files are stored at NCSA /project/eggl/jpltools_data 
